@@ -1,0 +1,7 @@
+imp
+to clone:
+git clone url
+ 
+to update:
+git pull origin master
+
