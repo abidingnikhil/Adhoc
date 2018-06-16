@@ -1,0 +1,157 @@
+Machine Learning
+---------------------------------
+train machine
+ML analyses current or previous conditions
+USE cases is most imp
+eg stock market prediction
+eg disease deteciton
+Learn from examples
+------------------------
+3 catogories
+1) Train Machine then ask questions Experience counts
+(supervised MML)
+2) No experience counts #NEWEvents #Surprises Fixed Actions
+(Unsupervised ML)
+3) 1.5 years later sorta mix
+(Reinforcement ML)
+----------------------------
+supervised ML
+3 Libs
+-Scipy (Scientific Python)
+-Pandas
+-NumPy (Numaric Python)(Matrix Form)
+-MatPlotLib
+--------------
+Sudo-make root like fell to commands
+------------------
+NumPy
+import NumPy
+dir(numpy)
+ar1=numpy.array([2,3,4,5,6,7,8])
+ar3**2 (squares)
+numpy.zeros((10,4))
+numpy.ones((10,4))
+x.reshape(4,10)
+numpy.full((5,3),44)
+-------
+q=
+user input reshape
+----
+slashlinuxcode
+---------------------------------------
+12 jne
+-----
+sudo whoami == root (virtually)
+pip is the python installer
+pip3 is the python3 installer
+
+sudo pip3 list
+
+jupitor notebook - python ML  IDE
+
+devconf schedule 18 india
+
+python libs for charting
+MatPlotLib
+#graph plotting by voice input
+...
+oython code-----
+import MatPlotLib.pylot as plg
+x=[2,4]
+x1=[8,3]
+
+y=[6,9]
+plt.x label = time
+plt.y label = speed
+plt = plg.plot(x,y)#plt.bar#plt.scatter
+plt.show
+lisen
+plt.grid("red")
+
+------------------------------
+13 june
+sentiments
+recmmendaions
+comuter vision
+chat bots
+
+ML is a  subbranch of Data Sc
+---
+data --
+--UCI
+--UCI.edu
+--KA
+
+
+
+Titanic Data
+Cabce
+Diabtse
+Stock market analysis
+----
+T- cricket rankings
+----
+task - data excel/ csv/ print row by row
+(pandas)
+----------------
+git--bit bucket
+Scm -source code managenebt
+ git lical
+ github global
+ gitlab
+
+repo-folder-dir
+
+    database maintained
+STEPS
+-online at github
+  new repo
+  add liscence
+  add redme.md as db
+  create
+-
+
+
+ -------
+supervised ML
+Collect data->Clean->Train->TEST->predictable OUTPUT
+
+tenserflow
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+sklearn coomunity
+  from""              diabetese.
+  data dir - catagories\
+  sscrition
+
+
+
+
+import iris
+iiris exlanation
+ flower catogories
+ --Vercicolor ----setosa-----vergininca
+
+sepal length/width
+petal length/width
+
+-allow-root
+
+
+Data->Target->TEST
+
+for train - imort decisioin tree
+  
